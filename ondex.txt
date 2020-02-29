@@ -1,1 +1,1 @@
-This outdex version of git repository
+This outdex2 version of git repository
