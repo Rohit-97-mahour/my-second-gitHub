@@ -1,1 +1,1 @@
-This is index1 version of git repository
+This is index 2 version of git repository
